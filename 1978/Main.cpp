@@ -1,7 +1,5 @@
 #include <iostream>
 
-// 2024-03-27 00:25
-
 bool isPrime(int n) {
     if (n == 1) return false;
 
